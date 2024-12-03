@@ -1187,13 +1187,15 @@ align-items: center;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  color: #2e2f42;
   margin-bottom: 40px;
 }
 .mobile-nav-link.active{
   color: #404bbf;
 }
 
+.mobile-nav-link{
+ color: #2e2f42;
+}
 .mobile-nav-list {
   margin-bottom: auto;
 }
